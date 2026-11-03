@@ -1,0 +1,41 @@
+iter,pass,stop,action,score,seed,best,stop_id,stop_name
+0,0,NA,start,0,1,TRUE,NA,NA
+1,1,33,remove,98.624241434125,1,TRUE,18004,Ashland & 48th Street
+2,1,19,remove,174.96447671370697,1,TRUE,18473,Ashland & 70th Street
+3,1,30,remove,382.7498699192656,1,TRUE,6192,Ashland & 52nd Street
+4,1,36,remove,415.7648812001571,1,TRUE,17257,Ashland & 45th Street
+5,1,60,remove,416.8295335553412,1,TRUE,6241,Ashland & Carroll
+6,1,69,remove,425.27161110175075,1,TRUE,6260,Ashland & Armitage
+7,1,22,remove,541.3392373743118,1,TRUE,6176,Ashland & 66th Street
+0,0,NA,start,0,2,FALSE,NA,NA
+1,1,30,remove,207.37299509264994,2,FALSE,6192,Ashland & 52nd Street
+2,1,22,remove,323.15571708246716,2,FALSE,6176,Ashland & 66th Street
+3,1,60,remove,324.20374322589487,2,FALSE,6241,Ashland & Carroll
+4,1,69,remove,332.6319575086818,2,FALSE,6260,Ashland & Armitage
+5,1,19,remove,409.0013770303631,2,FALSE,18473,Ashland & 70th Street
+6,1,33,remove,508.220054819918,2,FALSE,18004,Ashland & 48th Street
+7,1,36,remove,541.3392373743118,2,FALSE,17257,Ashland & 45th Street
+0,0,NA,start,0,3,FALSE,NA,NA
+1,1,69,remove,8.419509840139654,3,FALSE,6260,Ashland & Armitage
+2,1,60,remove,9.457506350940093,3,FALSE,6241,Ashland & Carroll
+3,1,22,remove,125.14537799209938,3,FALSE,6176,Ashland & 66th Street
+4,1,36,remove,157.6838515344134,3,FALSE,17257,Ashland & 45th Street
+5,1,19,remove,234.04233771804138,3,FALSE,18473,Ashland & 70th Street
+6,1,30,remove,441.8591838828579,3,FALSE,6192,Ashland & 52nd Street
+7,1,33,remove,541.3392373743118,3,FALSE,18004,Ashland & 48th Street
+0,0,NA,start,0,4,FALSE,NA,NA
+1,1,22,remove,115.68207701912615,4,FALSE,6176,Ashland & 66th Street
+2,1,19,remove,191.9172925161256,4,FALSE,18473,Ashland & 70th Street
+3,1,30,remove,399.51763163669966,4,FALSE,6192,Ashland & 52nd Street
+4,1,36,remove,432.3635129251343,4,FALSE,17257,Ashland & 45th Street
+5,1,69,remove,440.80041284061735,4,FALSE,6260,Ashland & Armitage
+6,1,33,remove,540.2712723887234,4,FALSE,18004,Ashland & 48th Street
+7,1,60,remove,541.3392373743118,4,FALSE,6241,Ashland & Carroll
+0,0,NA,start,0,5,FALSE,NA,NA
+1,1,69,remove,8.419509840139654,5,FALSE,6260,Ashland & Armitage
+2,1,30,remove,215.79840352985775,5,FALSE,6192,Ashland & 52nd Street
+3,1,22,remove,331.5837739967101,5,FALSE,6176,Ashland & 66th Street
+4,1,19,remove,407.9491001472634,5,FALSE,18473,Ashland & 70th Street
+5,1,36,remove,440.80041284061735,5,FALSE,17257,Ashland & 45th Street
+6,1,60,remove,441.8591838828579,5,FALSE,6241,Ashland & Carroll
+7,1,33,remove,541.3392373743118,5,FALSE,18004,Ashland & 48th Street

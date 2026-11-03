@@ -1,0 +1,126 @@
+route,seq,stop_id,stop_name,dist_ft,fixed,fixed_why,kept
+53,1,8972,Pulaski & Peterson Terminal,0,TRUE,terminal,TRUE
+53,2,8973,Pulaski & Thorndale,436,FALSE,,TRUE
+53,3,8975,Pulaski & Ardmore,1498,FALSE,,TRUE
+53,4,8976,Pulaski & Victoria,1859,FALSE,,TRUE
+53,5,17324,Pulaski & Bryn Mawr,2768,FALSE,,TRUE
+53,6,8979,5400 N Pulaski,3841,FALSE,,TRUE
+53,7,8980,5300 N Pulaski,4531,FALSE,,TRUE
+53,8,8981,Pulaski & Foster,5268,TRUE,bus 92,TRUE
+53,9,8982,5061 N Pulaski,5998,FALSE,,TRUE
+53,10,8983,Pulaski & Argyle,6615,FALSE,,TRUE
+53,11,8984,Pulaski & Ainslie,7279,FALSE,,TRUE
+53,12,8985,Pulaski & Lawrence,7943,TRUE,bus 81,TRUE
+53,13,8986,Pulaski & Leland,8432,FALSE,,TRUE
+53,14,17325,Pulaski & Wilson,9385,FALSE,,TRUE
+53,15,8988,Pulaski & Sunnyside,10038,FALSE,,TRUE
+53,16,8989,Pulaski & Montrose,10600,TRUE,bus 78,TRUE
+53,17,8990,Pulaski & Elston,11042,FALSE,,TRUE
+53,18,17326,Pulaski & Berteau,12082,FALSE,,TRUE
+53,19,8992,Pulaski & Belle Plaine,12604,FALSE,,TRUE
+53,20,17327,Pulaski & Irving Park,13433,TRUE,bus 80,TRUE
+53,21,8994,Irving Park Blue Line Station,13847,FALSE,,FALSE
+53,22,8995,Pulaski & Avondale,14434,FALSE,,TRUE
+53,23,8996,Pulaski & Waveland,15288,FALSE,,TRUE
+53,24,17462,Pulaski & Addison,16113,TRUE,bus 152,TRUE
+53,25,8998,Pulaski & Cornelia,16533,FALSE,,TRUE
+53,26,8999,Pulaski & Roscoe,17124,FALSE,,TRUE
+53,27,9000,Pulaski & Milwaukee,17807,TRUE,bus 56,TRUE
+53,28,14620,Pulaski & Belmont,18800,TRUE,bus 77,TRUE
+53,29,9002,Pulaski & Barry,19285,FALSE,,TRUE
+53,30,14621,Pulaski & Wellington,20077,FALSE,,TRUE
+53,31,9004,Pulaski & George,20610,FALSE,,FALSE
+53,32,14622,Pulaski & Diversey,21413,TRUE,bus 76,TRUE
+53,33,14623,Pulaski & Schubert,22096,FALSE,,FALSE
+53,34,9007,Pulaski & Wrightwood,22603,FALSE,,TRUE
+53,35,9008,Pulaski & Altgeld,23282,FALSE,,FALSE
+53,36,14624,Pulaski & Fullerton,24103,TRUE,bus 74,TRUE
+53,37,9010,Pulaski & Belden,24567,FALSE,,FALSE
+53,38,9011,Pulaski & Palmer,25472,FALSE,,TRUE
+53,39,9012,Pulaski & Dickens,26173,FALSE,,FALSE
+53,40,17458,Pulaski & Armitage,26972,TRUE,bus 73,TRUE
+53,41,15762,Pulaski & Cortland,27578,FALSE,,FALSE
+53,42,9015,1741 N Pulaski,28392,FALSE,,TRUE
+53,43,9016,Pulaski & Wabansia,28837,FALSE,,FALSE
+53,44,9017,Pulaski & North Ave,29687,TRUE,bus 72,TRUE
+53,45,9018,Pulaski & Le Moyne,30128,FALSE,,FALSE
+53,46,9019,Pulaski & Grand,30807,TRUE,bus 65,TRUE
+53,47,9020,Pulaski & Potomac,31457,FALSE,,FALSE
+53,48,17429,Pulaski & Division,32235,TRUE,bus 70,TRUE
+53,49,9022,Pulaski & Thomas,32786,FALSE,,FALSE
+53,50,14626,Pulaski & Augusta,33614,FALSE,,FALSE
+53,51,9024,Pulaski & Iowa,34107,FALSE,,TRUE
+53,52,14627,Pulaski & Chicago,34943,TRUE,bus 66,TRUE
+53,53,9027,Pulaski & Erie,35633,FALSE,,FALSE
+53,54,9028,Pulaski & Ohio,36137,FALSE,,TRUE
+53,55,9029,Pulaski & Ferdinand,36951,FALSE,,TRUE
+53,56,15552,Pulaski & Carroll,37889,FALSE,,FALSE
+53,57,9031,Pulaski & Lake (Green Line),38546,TRUE,rail,TRUE
+53,58,9032,Pulaski & West End,39110,FALSE,,FALSE
+53,59,9033,Pulaski & Washington,39665,FALSE,,FALSE
+53,60,14628,Pulaski & Madison,40311,TRUE,bus 20,TRUE
+53,61,9035,Pulaski & Wilcox,40760,FALSE,,FALSE
+53,62,9036,Pulaski & Jackson,41432,TRUE,bus 126,TRUE
+53,63,9037,Pulaski & Van Buren,42122,FALSE,,TRUE
+53,64,9039,Pulaski Blue Line Station,42670,TRUE,rail,TRUE
+53,65,15553,Pulaski & Fifth Avenue,43116,TRUE,bus 7,TRUE
+53,66,9041,Pulaski & Polk,43704,FALSE,,TRUE
+53,67,17328,Pulaski & Arthington,44186,FALSE,,FALSE
+53,68,15554,Pulaski & Fillmore,44891,FALSE,,FALSE
+53,69,17190,Pulaski & Roosevelt,45600,TRUE,bus 12,TRUE
+53,70,9046,Pulaski & 13th Street,46042,FALSE,,FALSE
+53,71,17191,Pulaski & 14th Street,46893,FALSE,,TRUE
+53,72,15555,Pulaski & 15th Street,47601,FALSE,,FALSE
+53,73,9049,Pulaski & 16th Street,48112,TRUE,bus 18,TRUE
+53,74,9050,Pulaski & 18th Street,48711,FALSE,,TRUE
+53,75,9051,Pulaski & 19th Street,49448,FALSE,,FALSE
+53,76,15940,Pulaski Pink Line Station,49974,TRUE,rail,TRUE
+53,77,9053,Pulaski & Cermak,50671,TRUE,bus 157 21,TRUE
+53,78,9054,Pulaski & Ogden,51132,TRUE,bus 21,TRUE
+53,79,9056,Pulaski & 24th Street,52067,FALSE,,FALSE
+53,80,15057,Pulaski & 25th Street,52906,FALSE,,TRUE
+53,81,9058,Pulaski & 26th Street,53362,TRUE,bus 60,TRUE
+53,82,9059,Pulaski & 27th Street,54125,FALSE,,FALSE
+53,83,15058,Pulaski & 28th Street,54880,FALSE,,TRUE
+53,84,9061,Pulaski & 30th Street,55453,FALSE,,FALSE
+53,85,18788,Pulaski & 31st Street,56256,TRUE,bus 35 82,TRUE
+53,86,12832,Pulaski & 32nd Street,56804,FALSE,,FALSE
+53,87,12833,Pulaski & 33rd Street,57497,FALSE,,FALSE
+53,88,12835,Pulaski & James J O'Connor Rd,58373,FALSE,,TRUE
+53,89,17293,Pulaski & 36th Street,59048,FALSE,,TRUE
+53,90,12837,3742 S Pulaski,60560,FALSE,,TRUE
+53,91,17203,Pulaski & 41st Street,63032,FALSE,,TRUE
+53,92,12839,Pulaski & 42nd Place,63806,FALSE,,FALSE
+53,93,15225,Pulaski & 43rd Street,64215,FALSE,,TRUE
+53,94,16070,Pulaski & 44th Street,64872,FALSE,,FALSE
+53,95,16071,Pulaski & 45th Street,65547,FALSE,,TRUE
+53,96,12843,Pulaski & 46th Street,66054,FALSE,,FALSE
+53,97,12844,Pulaski & 47th Street,66704,TRUE,bus 47,TRUE
+53,98,12845,Pulaski & 48th Street,67394,FALSE,,FALSE
+53,99,12846,Pulaski & 49th Street,68062,FALSE,,TRUE
+53,100,12847,Pulaski & Archer,69000,FALSE,,TRUE
+53,101,17508,Pulaski Orange Line Station,70141,TRUE,rail,TRUE
+53,102,14125,Pulaski Orange Line Station,70260,TRUE,rail,TRUE
+53,103,18846,5200 S Pulaski,71302,FALSE,,TRUE
+53,104,18847,Pulaski & 53rd Street,72061,FALSE,,TRUE
+53,105,12851,Pulaski & 54th Street,72455,FALSE,,FALSE
+53,106,4722,Pulaski & 55th Street,73134,TRUE,bus 55,TRUE
+53,107,12852,Pulaski & 56th Street,73791,FALSE,,TRUE
+53,108,12853,Pulaski & 57th Street,74452,FALSE,,TRUE
+53,109,12854,Pulaski & 58th Street,75120,FALSE,,TRUE
+53,110,4724,Pulaski & 59th Street,75780,TRUE,bus 59,TRUE
+53,111,12855,Pulaski & 60th Street,76448,FALSE,,TRUE
+53,112,12856,Pulaski & 61st Street,77112,FALSE,,TRUE
+53,113,12857,Pulaski & 62nd Street,77780,FALSE,,TRUE
+53,114,4726,Pulaski & 63rd Street,78430,TRUE,bus 63,TRUE
+53,115,12858,Pulaski & 64th Street,79105,FALSE,,TRUE
+53,116,12859,Pulaski & 65th Street,79766,FALSE,,TRUE
+53,117,12860,Pulaski & 66th Street,80430,FALSE,,TRUE
+53,118,4728,Pulaski & Marquette Rd,81098,FALSE,,TRUE
+53,119,12861,Pulaski & 68th Street,81773,FALSE,,TRUE
+53,120,12862,Pulaski & 69th Street,82430,FALSE,,TRUE
+53,121,12863,Pulaski & 70th Street,83098,FALSE,,TRUE
+53,122,4730,Pulaski & 71st Street,83738,FALSE,,TRUE
+53,123,4731,Pulaski & 75th Place,86386,FALSE,,TRUE
+53,124,17288,76th Street & Daley College,87536,FALSE,,TRUE
+53,125,18782,Ford City,90906,TRUE,terminal,TRUE

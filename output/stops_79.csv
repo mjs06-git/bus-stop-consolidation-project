@@ -1,0 +1,86 @@
+route,seq,stop_id,stop_name,dist_ft,fixed,fixed_why,kept
+79,1,18294,Ford City,0,TRUE,terminal,TRUE
+79,2,15935,76th Street & Ford City Movie Theatre,831,FALSE,,TRUE
+79,3,2720,Cicero & 76th Street,3223,TRUE,bus 54B,TRUE
+79,4,2721,Cicero & 78th Street,4053,FALSE,,TRUE
+79,5,2716,79th Street & Cicero,5280,TRUE,bus 169,TRUE
+79,6,2722,79th Street & Kilpatrick,5642,FALSE,,TRUE
+79,7,2723,79th Street & Kilpatrick,6157,FALSE,,TRUE
+79,8,2724,79th Street & Kilbourn,6979,FALSE,,TRUE
+79,9,15530,79th Street & Kostner,7850,FALSE,,TRUE
+79,10,15509,79th Street & Tripp,8885,FALSE,,TRUE
+79,11,2727,79th Street & Karlov,9687,FALSE,,TRUE
+79,12,2728,79th Street & Pulaski,10517,TRUE,bus 53A,TRUE
+79,13,2729,79th Street & Springfield,10996,FALSE,,TRUE
+79,14,2730,79th Street & Hamlin,11655,FALSE,,TRUE
+79,15,2731,79th Street & Lawndale,12319,FALSE,,TRUE
+79,16,2732,79th Street & Central Park,13191,FALSE,,FALSE
+79,17,2733,79th Street & St. Louis,13646,FALSE,,TRUE
+79,18,2734,79th Street & Homan,14311,FALSE,,TRUE
+79,19,2736,79th Street & Columbus (Southwest Hwy.),15264,FALSE,,TRUE
+79,20,2737,79th Street & Kedzie,15628,TRUE,bus 52A,TRUE
+79,21,2738,79th Street & Albany,16336,FALSE,,TRUE
+79,22,2739,79th Street & Sacramento,16987,FALSE,,TRUE
+79,23,2741,79th Street & Francisco,17657,FALSE,,TRUE
+79,24,2742,79th Street & California,18319,FALSE,,TRUE
+79,25,2743,79th Street & Washtenaw,18981,FALSE,,TRUE
+79,26,2744,79th Street & Talman,19319,FALSE,,TRUE
+79,27,2745,79th Street & Campbell,20316,FALSE,,TRUE
+79,28,15685,79th Street & Western Terminal,21488,TRUE,bus 49 X49,TRUE
+79,29,2747,79th Street & Oakley,22142,FALSE,,TRUE
+79,30,2748,79th Street & Hamilton,23158,FALSE,,FALSE
+79,31,2749,79th Street & Hoyne,23490,FALSE,,FALSE
+79,32,2750,79th Street & Damen,24141,TRUE,bus 48,TRUE
+79,33,2751,79th Street & Wolcott,24808,FALSE,,TRUE
+79,34,17387,79th Street & Honore,25146,FALSE,,FALSE
+79,35,2752,79th Street & Wood,25465,FALSE,,TRUE
+79,36,2753,79th Street & Paulina,26129,FALSE,,TRUE
+79,37,2754,79th Street & Ashland,26771,TRUE,bus 9 X9,TRUE
+79,38,2755,79th Street & Laflin,27441,FALSE,,TRUE
+79,39,15327,79th Street & Loomis,28274,FALSE,,TRUE
+79,40,2757,79th Street & Throop,28759,FALSE,,TRUE
+79,41,2758,79th Street & Racine,29421,TRUE,bus 44,TRUE
+79,42,15812,79th Street & Aberdeen,30213,FALSE,,TRUE
+79,43,15330,79th Street & Morgan,30913,FALSE,,FALSE
+79,44,2761,79th Street & Peoria,31400,FALSE,,TRUE
+79,45,2762,79th Street & Halsted,32065,TRUE,bus 169 8,TRUE
+79,46,17352,79th Street & Union,32882,FALSE,,TRUE
+79,47,2767,79th Street & Normal,34066,FALSE,,TRUE
+79,48,2769,79th Street & Vincennes,34717,TRUE,bus 24,TRUE
+79,49,2770,79th Street & Princeton,35384,FALSE,,TRUE
+79,50,2771,79th Street & Wentworth,35928,FALSE,,FALSE
+79,51,2772,79th Street & Perry,36702,FALSE,,TRUE
+79,52,17097,79th Red Line Station,37353,TRUE,rail,TRUE
+79,53,2777,79th Street & Michigan,38231,FALSE,,TRUE
+79,54,2779,79th Street & Prairie,39100,FALSE,,TRUE
+79,55,18333,79th Street & King Drive,40124,TRUE,bus 3,TRUE
+79,56,2782,79th Street & Eberhart,40663,FALSE,,TRUE
+79,57,2783,79th Street & St. Lawrence,41317,FALSE,,TRUE
+79,58,2784,79th Street & Langley,41987,FALSE,,TRUE
+79,59,2785,79th Street & Cottage Grove,42624,TRUE,bus 4 X4,TRUE
+79,60,2786,79th Street & Drexel,43305,FALSE,,TRUE
+79,61,2787,79th Street & Ellis,43972,FALSE,,TRUE
+79,62,2788,79th Street & Greenwood,44631,FALSE,,FALSE
+79,63,2789,79th Street & Woodlawn,45279,FALSE,,TRUE
+79,64,2790,79th Street & Kimbark,45962,FALSE,,TRUE
+79,65,2791,79th Street & Kenwood,46286,FALSE,,FALSE
+79,66,2792,79th Street & Dorchester,46621,FALSE,,TRUE
+79,67,2793,79th Street & Anthony,47193,FALSE,,TRUE
+79,68,2794,79th Street & Stony Island,47863,TRUE,bus 28,TRUE
+79,69,2795,79th Street & Stony Island,48255,TRUE,bus 28 30,TRUE
+79,70,2796,79th Street & East End,48737,FALSE,,TRUE
+79,71,2797,79th Street & Cregier,49284,FALSE,,TRUE
+79,72,2798,79th Street & Bennett,49943,FALSE,,TRUE
+79,73,17697,79th Street & Jeffery,50757,TRUE,bus 15 J14,TRUE
+79,74,2800,79th Street & Clyde,51269,FALSE,,TRUE
+79,75,2801,79th Street & Paxton,51936,FALSE,,TRUE
+79,76,2803,79th Street & Crandon,52598,FALSE,,TRUE
+79,77,2805,79th Street & Yates,53268,FALSE,,TRUE
+79,78,17661,79th Street & Phillips,53758,FALSE,,TRUE
+79,79,17354,79th Street & Colfax,54757,FALSE,,TRUE
+79,80,2808,79th Street & Marquette,55253,FALSE,,TRUE
+79,81,17355,79th Street & Burnham,56078,FALSE,,TRUE
+79,82,2811,79th Street & Exchange,56900,FALSE,,TRUE
+79,83,2813,79th Street & Coles,57724,FALSE,,TRUE
+79,84,2814,79th Street & South Shore,58189,TRUE,bus 26 71 N5,TRUE
+79,85,17868,79th Street & Lake Shore Drive,60363,TRUE,terminal,TRUE

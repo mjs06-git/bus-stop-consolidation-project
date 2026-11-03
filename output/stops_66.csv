@@ -1,0 +1,70 @@
+route,seq,stop_id,stop_name,dist_ft,fixed,fixed_why,kept
+66,1,510,Chicago & Austin Terminal,0,TRUE,terminal,TRUE
+66,2,18710,Chicago & Mayfield,732,FALSE,,TRUE
+66,3,18720,Chicago & Menard,1281,FALSE,,TRUE
+66,4,18721,Chicago & Waller,1911,FALSE,,TRUE
+66,5,515,Chicago & Central,2464,TRUE,bus 85,TRUE
+66,6,516,Chicago & Pine,2947,FALSE,,TRUE
+66,7,14512,Chicago & Long,3911,FALSE,,TRUE
+66,8,518,Chicago & Lockwood,4613,FALSE,,TRUE
+66,9,14513,Chicago & Laramie,5265,TRUE,bus 57,TRUE
+66,10,520,Chicago & Leclaire,5825,FALSE,,TRUE
+66,11,15297,Chicago & Lavergne,6603,FALSE,,TRUE
+66,12,522,Chicago & Lamon,7161,FALSE,,TRUE
+66,13,523,Chicago & Cicero,7819,TRUE,bus 54,TRUE
+66,14,524,Chicago & Kilpatrick,8454,FALSE,,TRUE
+66,15,525,Chicago & Kilbourn,9881,FALSE,,TRUE
+66,16,14514,Chicago & Kostner,10646,FALSE,,TRUE
+66,17,527,Chicago & Kildare,11192,FALSE,,TRUE
+66,18,528,Chicago & Keeler,11835,FALSE,,TRUE
+66,19,529,Chicago & Karlov,12547,FALSE,,TRUE
+66,20,530,Chicago & Pulaski,13205,TRUE,bus 53,TRUE
+66,21,531,Chicago & Springfield,13896,FALSE,,TRUE
+66,22,14515,Chicago & Hamlin,14650,FALSE,,TRUE
+66,23,15133,Chicago & Lawndale,15364,FALSE,,TRUE
+66,24,14516,Chicago & Central Park,16006,FALSE,,TRUE
+66,25,535,Chicago & St. Louis,16530,FALSE,,TRUE
+66,26,14517,Chicago & Homan,17340,TRUE,bus 82,TRUE
+66,27,537,Chicago & Spaulding,17875,FALSE,,TRUE
+66,28,538,Chicago & Kedzie,18527,TRUE,bus 52,TRUE
+66,29,540,Chicago & Sacramento,19633,TRUE,bus 94,TRUE
+66,30,543,Chicago & Grand,20635,FALSE,,TRUE
+66,31,544,Chicago & California,21229,TRUE,bus 94,TRUE
+66,32,545,Chicago & Washtenaw,21910,FALSE,,FALSE
+66,33,15043,Chicago & Rockwell,22662,FALSE,,TRUE
+66,34,547,Chicago & Campbell,23232,FALSE,,FALSE
+66,35,18668,Chicago & Western,24025,TRUE,bus 49 X49,TRUE
+66,36,15204,Chicago & Oakley,24696,FALSE,,FALSE
+66,37,550,Chicago & Leavitt,25223,FALSE,,TRUE
+66,38,551,Chicago & Hoyne,25900,FALSE,,FALSE
+66,39,552,Chicago & Damen,26558,TRUE,bus 50,TRUE
+66,40,553,Chicago & Wolcott,27236,FALSE,,FALSE
+66,41,15205,Chicago & Wood,28035,FALSE,,TRUE
+66,42,15206,Chicago & Paulina,28674,FALSE,,FALSE
+66,43,556,Chicago & Ashland,29182,TRUE,bus 9 X9,TRUE
+66,44,557,Chicago & Bishop,30098,FALSE,,TRUE
+66,45,15293,Chicago & Noble,30696,FALSE,,FALSE
+66,46,559,Chicago & Elizabeth,31340,FALSE,,TRUE
+66,47,561,Chicago & Milwaukee (Blue Line),32397,TRUE,rail,TRUE
+66,48,17834,Milwaukee & Carpenter,33280,FALSE,,TRUE
+66,49,5500,Milwaukee & Erie,33976,FALSE,,TRUE
+66,50,739,Grand & Union,35734,FALSE,,TRUE
+66,51,741,530 W Grand,36485,FALSE,,TRUE
+66,52,742,Grand & Kingsbury,37383,FALSE,,FALSE
+66,53,14762,Orleans & Grand,38305,FALSE,,TRUE
+66,54,6712,Orleans & Erie,39017,FALSE,,TRUE
+66,55,6713,Orleans & Huron,39309,FALSE,,FALSE
+66,56,6714,Orleans & Chicago,39941,FALSE,,TRUE
+66,57,572,Chicago & Franklin (Brown line),40246,TRUE,rail,TRUE
+66,58,574,Chicago & LaSalle,41170,TRUE,bus 156,TRUE
+66,59,18222,Chicago & Clark,41571,TRUE,bus 22,TRUE
+66,60,18223,Chicago & State (Red Line),42544,TRUE,rail,TRUE
+66,61,580,Chicago & Michigan,43441,TRUE,bus 10 125 26 3,TRUE
+66,62,15282,Chicago & Mies Van Der Rohe,44052,TRUE,bus 10 125 157,TRUE
+66,63,582,Chicago & Fairbanks,44530,TRUE,bus 26,TRUE
+66,64,584,Fairbanks & Huron,45172,FALSE,,TRUE
+66,65,587,Fairbanks & Ohio,46212,TRUE,bus 120 121 29 65,TRUE
+66,66,754,Illinois & McClurg,47350,TRUE,bus 120 121,TRUE
+66,67,755,Illinois & Peshtigo,48033,FALSE,,TRUE
+66,68,756,Illinois & Lake Shore,48737,FALSE,,TRUE
+66,69,14161,Navy Pier Terminal,50260,TRUE,terminal,TRUE
