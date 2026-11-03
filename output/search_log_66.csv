@@ -1,0 +1,49 @@
+iter,pass,stop,action,score,seed,best,stop_id,stop_name
+0,0,NA,start,0,1,FALSE,NA,NA
+1,1,52,remove,100.52143866760889,1,FALSE,742,Grand & Kingsbury
+2,1,32,remove,151.02132558569429,1,FALSE,545,Chicago & Washtenaw
+3,1,45,remove,242.58923941431567,1,FALSE,15293,Chicago & Noble
+4,1,34,remove,326.47157574197627,1,FALSE,547,Chicago & Campbell
+5,1,42,remove,578.9540475837712,1,FALSE,15206,Chicago & Paulina
+6,1,37,remove,693.0497007061203,1,FALSE,550,Chicago & Leavitt
+7,1,55,remove,1102.4901665391226,1,FALSE,6713,Orleans & Huron
+8,1,40,remove,1337.9889237251482,1,FALSE,553,Chicago & Wolcott
+0,0,NA,start,0,2,TRUE,NA,NA
+1,1,40,remove,200.4644218069152,2,TRUE,553,Chicago & Wolcott
+2,1,55,remove,594.2014384514769,2,TRUE,6713,Orleans & Huron
+3,1,32,remove,644.9700059653842,2,TRUE,545,Chicago & Washtenaw
+4,1,45,remove,736.8978183634463,2,TRUE,15293,Chicago & Noble
+5,1,38,remove,772.9779139285383,2,TRUE,551,Chicago & Hoyne
+6,1,52,remove,891.9408076685504,2,TRUE,742,Grand & Kingsbury
+7,1,42,remove,1174.37511390468,2,TRUE,15206,Chicago & Paulina
+8,1,36,remove,1471.5618570804654,2,TRUE,15204,Chicago & Oakley
+9,1,34,remove,1623.4786294244695,2,TRUE,547,Chicago & Campbell
+0,0,NA,start,0,3,FALSE,NA,NA
+1,1,52,remove,100.52143866760889,3,FALSE,742,Grand & Kingsbury
+2,1,42,remove,351.72464239408146,3,FALSE,15206,Chicago & Paulina
+3,1,55,remove,758.7993740180682,3,FALSE,6713,Orleans & Huron
+4,1,40,remove,991.5133931108867,3,FALSE,553,Chicago & Wolcott
+5,1,45,remove,1084.7698010049935,3,FALSE,15293,Chicago & Noble
+6,1,33,remove,1224.5176460457442,3,FALSE,15043,Chicago & Rockwell
+7,1,37,remove,1339.3318198935594,3,FALSE,550,Chicago & Leavitt
+0,0,NA,start,0,4,FALSE,NA,NA
+1,1,33,remove,136.98373315570643,4,FALSE,15043,Chicago & Rockwell
+2,1,37,remove,249.58587896017707,4,FALSE,550,Chicago & Leavitt
+3,1,54,remove,280.21983497968176,4,FALSE,6712,Orleans & Erie
+4,1,40,remove,482.9494321564853,4,FALSE,553,Chicago & Wolcott
+5,1,45,remove,575.1378877034294,4,FALSE,15293,Chicago & Noble
+6,1,52,remove,622.1332290538994,4,FALSE,742,Grand & Kingsbury
+7,1,42,remove,904.6244077196461,4,FALSE,15206,Chicago & Paulina
+8,2,54,restore,929.2556290630891,4,FALSE,6712,Orleans & Erie
+9,2,55,remove,1339.3318198935594,4,FALSE,6713,Orleans & Huron
+0,0,NA,start,0,5,FALSE,NA,NA
+1,1,54,remove,29.718703069433104,5,FALSE,6712,Orleans & Erie
+2,1,36,remove,145.16002434203983,5,FALSE,15204,Chicago & Oakley
+3,1,38,remove,344.3589180037088,5,FALSE,551,Chicago & Hoyne
+4,1,45,remove,435.9328312607249,5,FALSE,15293,Chicago & Noble
+5,1,42,remove,687.9632247397094,5,FALSE,15206,Chicago & Paulina
+6,1,33,remove,826.7579413266212,5,FALSE,15043,Chicago & Rockwell
+7,1,40,remove,1074.5470025124378,5,FALSE,553,Chicago & Wolcott
+8,1,52,remove,1124.470668222726,5,FALSE,742,Grand & Kingsbury
+9,2,54,restore,1148.13449926037,5,FALSE,6712,Orleans & Erie
+10,3,55,remove,1559.0745944782975,5,FALSE,6713,Orleans & Huron

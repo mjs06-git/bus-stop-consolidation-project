@@ -1,0 +1,46 @@
+iter,pass,stop,action,score,seed,best,stop_id,stop_name
+0,0,NA,start,0,1,TRUE,NA,NA
+1,1,50,remove,18.24955486151157,1,TRUE,2771,79th Street & Wentworth
+2,1,43,remove,47.38045525315101,1,TRUE,15330,79th Street & Morgan
+3,1,65,remove,73.37936491135042,1,TRUE,2791,79th Street & Kenwood
+4,1,16,remove,191.1518456689082,1,TRUE,2732,79th Street & Central Park
+5,1,34,remove,419.0102398284653,1,TRUE,17387,79th Street & Honore
+6,1,30,remove,431.4457822755794,1,TRUE,2748,79th Street & Hamilton
+7,1,62,remove,439.50813095583,1,TRUE,2788,79th Street & Greenwood
+8,2,31,remove,449.8252677753917,1,TRUE,2749,79th Street & Hoyne
+0,0,NA,start,0,2,FALSE,NA,NA
+1,1,16,remove,117.03668722591829,2,FALSE,2732,79th Street & Central Park
+2,1,50,remove,135.38538615213474,2,FALSE,2771,79th Street & Wentworth
+3,1,65,remove,161.24003961865674,2,FALSE,2791,79th Street & Kenwood
+4,1,43,remove,191.1518456689082,2,FALSE,15330,79th Street & Morgan
+5,1,34,remove,419.0102398284653,2,FALSE,17387,79th Street & Honore
+6,1,62,remove,427.0378680807189,2,FALSE,2788,79th Street & Greenwood
+7,1,30,remove,439.50813095583,2,FALSE,2748,79th Street & Hamilton
+8,2,31,remove,449.8252677753917,2,FALSE,2749,79th Street & Hoyne
+0,0,NA,start,0,3,FALSE,NA,NA
+1,1,16,remove,117.03668722591829,3,FALSE,2732,79th Street & Central Park
+2,1,50,remove,135.38538615213474,3,FALSE,2771,79th Street & Wentworth
+3,1,62,remove,141.56922968517756,3,FALSE,2788,79th Street & Greenwood
+4,1,65,remove,167.56429331190884,3,FALSE,2791,79th Street & Kenwood
+5,1,34,remove,395.1821606407175,3,FALSE,17387,79th Street & Honore
+6,1,43,remove,427.0378680807189,3,FALSE,15330,79th Street & Morgan
+7,1,30,remove,439.50813095583,3,FALSE,2748,79th Street & Hamilton
+8,2,31,remove,449.8252677753917,3,FALSE,2749,79th Street & Hoyne
+0,0,NA,start,0,4,FALSE,NA,NA
+1,1,65,remove,25.75889360893052,4,FALSE,2791,79th Street & Kenwood
+2,1,30,remove,38.10034846610506,4,FALSE,2748,79th Street & Hamilton
+3,1,34,remove,264.9130102565978,4,FALSE,17387,79th Street & Honore
+4,1,16,remove,382.2617036626325,4,FALSE,2732,79th Street & Central Park
+5,1,31,remove,391.1809645873727,4,FALSE,2749,79th Street & Hoyne
+6,1,50,remove,409.79704206471797,4,FALSE,2771,79th Street & Wentworth
+7,1,43,remove,441.25012725632405,4,FALSE,15330,79th Street & Morgan
+8,1,62,remove,449.8252677753917,4,FALSE,2788,79th Street & Greenwood
+0,0,NA,start,0,5,FALSE,NA,NA
+1,1,16,remove,117.03668722591829,5,FALSE,2732,79th Street & Central Park
+2,1,34,remove,343.98325786399073,5,FALSE,17387,79th Street & Honore
+3,1,65,remove,369.8852311488881,5,FALSE,2791,79th Street & Kenwood
+4,1,50,remove,388.3733671664377,5,FALSE,2771,79th Street & Wentworth
+5,1,62,remove,395.1821606407175,5,FALSE,2788,79th Street & Greenwood
+6,1,43,remove,427.0378680807189,5,FALSE,15330,79th Street & Morgan
+7,1,30,remove,439.50813095583,5,FALSE,2748,79th Street & Hamilton
+8,2,31,remove,449.8252677753917,5,FALSE,2749,79th Street & Hoyne

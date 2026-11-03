@@ -1,0 +1,108 @@
+route,seq,stop_id,stop_name,dist_ft,fixed,fixed_why,kept
+8,1,5756,Halsted & Waveland/Broadway Terminal,0,TRUE,terminal,TRUE
+8,2,5757,Waveland & Broadway,482,FALSE,,TRUE
+8,3,14901,Halsted & Addison,1492,TRUE,bus 152,TRUE
+8,4,5759,Halsted & Cornelia,1993,FALSE,,TRUE
+8,5,5760,Halsted & Roscoe,2657,FALSE,,TRUE
+8,6,5761,Halsted & Aldine,3329,FALSE,,TRUE
+8,7,14906,Halsted & Belmont,4132,TRUE,bus 156 77,TRUE
+8,8,14908,Halsted & Clark/Barry,4811,FALSE,,TRUE
+8,9,5764,Halsted & Wellington,5285,FALSE,,FALSE
+8,10,5765,Halsted & George,5968,FALSE,,TRUE
+8,11,14907,Halsted & Diversey,6789,TRUE,bus 76,TRUE
+8,12,5767,Halsted & Schubert,7140,FALSE,,TRUE
+8,13,5768,Halsted & Wrightwood,7961,FALSE,,FALSE
+8,14,5769,Halsted & Altgeld,8691,FALSE,,TRUE
+8,15,18436,Halsted & Lincoln/Fullerton,9443,TRUE,bus 37 74,TRUE
+8,16,1349,Halsted & Belden,9950,FALSE,,FALSE
+8,17,5771,Halsted & Webster,10612,FALSE,,TRUE
+8,18,5772,Halsted & Dickens,11287,FALSE,,FALSE
+8,19,18468,Halsted & Armitage,12090,TRUE,bus 73,TRUE
+8,20,5774,1900 N Halsted,12794,FALSE,,TRUE
+8,21,5775,Halsted & Willow,13513,FALSE,,FALSE
+8,22,5776,1700 N Halsted,14327,FALSE,,FALSE
+8,23,15407,Halsted & North Ave (Red Line),14765,TRUE,rail,TRUE
+8,24,5779,Halsted & Blackhawk,15433,FALSE,,FALSE
+8,25,5780,Halsted & Evergreen,16247,FALSE,,TRUE
+8,26,5782,Halsted & Division,17211,TRUE,bus 70,TRUE
+8,27,15368,Division & Hooker,18188,FALSE,,FALSE
+8,28,2051,Division & Cherry,18910,FALSE,,TRUE
+8,29,15369,Division & North Branch,19432,TRUE,bus 70,TRUE
+8,30,5496,Milwaukee & Chicago,22898,TRUE,rail,TRUE
+8,31,17834,Milwaukee & Carpenter,23818,FALSE,,FALSE
+8,32,5500,Milwaukee & Erie,24514,FALSE,,TRUE
+8,33,18786,Halsted & Milwaukee/Grand (Blue Line),25954,TRUE,rail,TRUE
+8,34,5792,Halsted & Fulton Market,27382,FALSE,,FALSE
+8,35,15350,Halsted & Lake,27960,FALSE,,TRUE
+8,36,15351,Halsted & Randolph/Washington,28526,FALSE,,FALSE
+8,37,15008,Halsted & Madison,29416,TRUE,bus 20,TRUE
+8,38,15352,Halsted & Monroe,29832,FALSE,,FALSE
+8,39,5799,Halsted & Jackson,30609,TRUE,bus 126,TRUE
+8,40,205,UIC-Halsted Blue Line Station,31533,FALSE,,TRUE
+8,41,4638,Halsted & Harrison,32154,TRUE,bus 60 7,TRUE
+8,42,4639,Halsted & Polk,32811,FALSE,,TRUE
+8,43,4640,Halsted & Taylor,33626,TRUE,bus 157,TRUE
+8,44,17366,Halsted & Roosevelt,34767,TRUE,bus 12 18 62,TRUE
+8,45,5802,Halsted & Maxwell,35442,FALSE,,TRUE
+8,46,5804,Halsted & 14th Place,36303,FALSE,,TRUE
+8,47,5806,Halsted & 16th Street,37424,FALSE,,FALSE
+8,48,17904,Halsted & 18th Street,38234,FALSE,,TRUE
+8,49,5809,Halsted & Cullerton,38884,FALSE,,FALSE
+8,50,15354,Halsted & Cermak,40030,TRUE,bus 21,TRUE
+8,51,5917,Halsted Orange Line Station,42276,TRUE,rail,TRUE
+8,52,17905,Halsted & 26th Street,43917,FALSE,,TRUE
+8,53,5815,Halsted & 28th Street,44453,FALSE,,FALSE
+8,54,18213,Halsted & 29th Street,45288,FALSE,,FALSE
+8,55,5817,Halsted & 30th Street,45759,FALSE,,TRUE
+8,56,17157,Halsted & 31st Street,46632,TRUE,bus 31,TRUE
+8,57,17123,Halsted & 32nd Street,47165,FALSE,,TRUE
+8,58,5820,Halsted & 33rd Street,47778,FALSE,,FALSE
+8,59,5821,Halsted & 34th Street,48402,FALSE,,TRUE
+8,60,5822,Halsted & 35th Street,49088,TRUE,bus 35,TRUE
+8,61,5823,Halsted & 36th Street,49865,FALSE,,FALSE
+8,62,17595,Halsted & 37th Street,50390,FALSE,,TRUE
+8,63,5825,Halsted & 38th Street,50977,FALSE,,FALSE
+8,64,14863,Halsted & Pershing,51945,TRUE,bus 39,TRUE
+8,65,5827,Halsted & 41st Street,53000,FALSE,,TRUE
+8,66,5149,Halsted & Exchange,53697,TRUE,bus 44,TRUE
+8,67,5150,Halsted & 42nd Street,53973,FALSE,,TRUE
+8,68,17060,Halsted & 43rd Street,54586,FALSE,,FALSE
+8,69,17170,Halsted & 43rd Place,55086,FALSE,,TRUE
+8,70,17158,Halsted & 45th Street,55944,FALSE,,FALSE
+8,71,5155,Halsted & 46th Street,56604,FALSE,,TRUE
+8,72,16127,Halsted & 47th Street,57290,TRUE,bus 44 47,TRUE
+8,73,5829,Halsted & 48th Street,57768,FALSE,,TRUE
+8,74,5830,Halsted & 49th Street,58359,FALSE,,TRUE
+8,75,5831,Halsted & 50th Street,59100,FALSE,,TRUE
+8,76,15023,Halsted & 51st Street,59885,TRUE,bus 51,TRUE
+8,77,5833,Halsted & 52nd Street,60418,FALSE,,FALSE
+8,78,17950,Halsted & 53rd Street,61283,FALSE,,TRUE
+8,79,5835,Halsted & 54th Street,61776,FALSE,,TRUE
+8,80,5836,Halsted & Garfield,62418,TRUE,bus 55,TRUE
+8,81,5837,Halsted & Garfield,62722,TRUE,bus 55,TRUE
+8,82,5838,Halsted & 56th Street,63083,FALSE,,TRUE
+8,83,5839,Halsted & 57th Street,63747,FALSE,,FALSE
+8,84,5840,Halsted & 58th Street,64404,FALSE,,TRUE
+8,85,5841,Halsted & 59th Street,65058,TRUE,bus 59,TRUE
+8,86,5842,Halsted & 60th Street,65744,FALSE,,TRUE
+8,87,17373,Halsted & 61st Street,66580,FALSE,,TRUE
+8,88,15873,Halsted & 63rd Parkway,67010,FALSE,,TRUE
+8,89,15875,Halsted & 63rd Street (Green Line),67912,TRUE,rail,TRUE
+8,90,5848,6400 S Halsted,68401,FALSE,,TRUE
+8,91,15876,Halsted & 65th Street,69236,FALSE,,FALSE
+8,92,5850,Halsted & 66th Street,69732,FALSE,,TRUE
+8,93,17953,Halsted & Marquette Rd,70539,FALSE,,TRUE
+8,94,5852,Halsted & 68th Street,71061,FALSE,,FALSE
+8,95,14496,Halsted & 69th Street,71930,TRUE,bus 67,TRUE
+8,96,5854,Halsted & 70th Street,72393,FALSE,,TRUE
+8,97,5855,Halsted & 71st Street,73050,FALSE,,TRUE
+8,98,5856,Halsted & 72nd Street,73700,FALSE,,TRUE
+8,99,5857,Halsted & 73rd Street,74379,FALSE,,TRUE
+8,100,14818,Halsted & 74th Street,75167,TRUE,bus 75,TRUE
+8,101,5859,Halsted & 75th Street,75518,FALSE,,TRUE
+8,102,5860,Halsted & 75th Street,75931,FALSE,,FALSE
+8,103,5861,Halsted & 76th Street,76376,FALSE,,TRUE
+8,104,15086,Halsted & 77th Street,77179,FALSE,,TRUE
+8,105,5863,Halsted & 78th Street,77690,FALSE,,TRUE
+8,106,5864,Halsted & 79th Street,78362,TRUE,bus 79,TRUE
+8,107,17472,Halsted & 79th Street Terminal,78821,TRUE,terminal,TRUE

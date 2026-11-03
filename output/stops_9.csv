@@ -1,0 +1,85 @@
+route,seq,stop_id,stop_name,dist_ft,fixed,fixed_why,kept
+9,1,6131,Ashland & 95th Street Terminal,0,TRUE,terminal,TRUE
+9,2,6147,Ashland & 95th Street,569,TRUE,bus 95,TRUE
+9,3,6148,Ashland & 94th Street,1055,FALSE,,TRUE
+9,4,6149,Ashland & 93rd Street,1719,FALSE,,TRUE
+9,5,14781,Ashland & 91st Street,3204,FALSE,,TRUE
+9,6,6153,Ashland & 89th Street,4339,FALSE,,TRUE
+9,7,6155,Ashland & 87th Street,5690,TRUE,bus 87,TRUE
+9,8,15455,Ashland & 85th Street,7194,FALSE,,TRUE
+9,9,6159,Ashland & 83rd Street,8365,FALSE,,TRUE
+9,10,6160,Ashland & 82nd Street,9029,FALSE,,TRUE
+9,11,15456,Ashland & 81st Street,9905,FALSE,,TRUE
+9,12,6162,Ashland & 80th Street,10361,FALSE,,TRUE
+9,13,6163,Ashland & 79th Street,11018,TRUE,bus 169 79,TRUE
+9,14,6165,Ashland & 77th Street,12353,FALSE,,TRUE
+9,15,6166,Ashland & 76th Street,13017,FALSE,,TRUE
+9,16,6168,Ashland & 74th Street,14342,TRUE,bus 75,TRUE
+9,17,6169,Ashland & 73rd Street,15014,FALSE,,TRUE
+9,18,6171,Ashland & 71st Street,16332,FALSE,,TRUE
+9,19,18473,Ashland & 70th Street,17150,FALSE,,FALSE
+9,20,14864,Ashland & 69th Street,17818,TRUE,bus 67,TRUE
+9,21,12351,Ashland & Marquette Rd,19158,FALSE,,TRUE
+9,22,6176,Ashland & 66th Street,19658,FALSE,,FALSE
+9,23,6177,Ashland & 65th Street,20326,FALSE,,TRUE
+9,24,6179,Ashland/63rd Green Line Station,21494,TRUE,rail,TRUE
+9,25,6182,Ashland & 61st Street,22976,FALSE,,TRUE
+9,26,18001,Ashland & 59th Street,24472,TRUE,bus 59,TRUE
+9,27,6186,Ashland & 57th Street,25638,FALSE,,TRUE
+9,28,6189,Ashland & Garfield,27109,TRUE,bus 55,TRUE
+9,29,6191,Ashland & 53rd Street,28299,FALSE,,TRUE
+9,30,6192,Ashland & 52nd Street,28963,FALSE,,FALSE
+9,31,18002,Ashland & 51st Street,29773,TRUE,bus 51,TRUE
+9,32,6195,Ashland & 49th Street,31123,FALSE,,TRUE
+9,33,18004,Ashland & 48th Street,31751,FALSE,,FALSE
+9,34,17256,Ashland & 47th Street,32503,TRUE,bus 47,TRUE
+9,35,18676,Ashland & 46th Street,33102,FALSE,,TRUE
+9,36,17257,Ashland & 45th Street,33737,FALSE,,FALSE
+9,37,18683,Ashland & 43rd Street,35080,FALSE,,TRUE
+9,38,6202,Ashland & 42nd Street,35803,FALSE,,TRUE
+9,39,6205,Ashland & Pershing,37816,TRUE,bus 39,TRUE
+9,40,15970,Ashland & 37th Street,39126,FALSE,,TRUE
+9,41,6209,Ashland & 35th Street,40279,TRUE,bus 35,TRUE
+9,42,14782,Ashland & 33rd Street,41750,FALSE,,TRUE
+9,43,6213,Ashland & Archer,42889,TRUE,bus 31 62,TRUE
+9,44,4164,Ashland Orange Line Station,44017,TRUE,rail,TRUE
+9,45,6215,2700 S Ashland,45835,FALSE,,TRUE
+9,46,6217,2451 S Ashland,47141,FALSE,,TRUE
+9,47,14499,Ashland & Cermak,49121,TRUE,bus 21 60,TRUE
+9,48,18621,Ashland & Cullerton,50072,FALSE,,TRUE
+9,49,17229,Ashland & 18th Street,51057,TRUE,bus 18,TRUE
+9,50,6227,Ashland & 15th Street,52401,FALSE,,TRUE
+9,51,6228,Ashland & 14th Street,52918,FALSE,,TRUE
+9,52,6230,Ashland & Roosevelt,54194,TRUE,bus 12,TRUE
+9,53,17061,Ashland & Taylor,55260,TRUE,bus 157,TRUE
+9,54,15793,Ashland & Polk,56140,FALSE,,TRUE
+9,55,6233,Ashland & Harrison,56877,TRUE,bus 7,TRUE
+9,56,51,Ashland & Van Buren,57834,TRUE,bus 126,TRUE
+9,57,17177,Ashland & Adams,58754,FALSE,,TRUE
+9,58,17076,Ashland & Madison,59740,TRUE,bus 20,TRUE
+9,59,14783,Ashland & Lake (Green Line),60861,TRUE,rail,TRUE
+9,60,6241,Ashland & Carroll,61815,FALSE,,FALSE
+9,61,17179,Ashland & Grand,63132,TRUE,bus 65,TRUE
+9,62,6245,Ashland & Erie,63840,FALSE,,TRUE
+9,63,15843,Ashland & Chicago,64990,TRUE,bus 66,TRUE
+9,64,14536,Ashland & Augusta,66352,FALSE,,TRUE
+9,65,6252,Ashland & Milwaukee (Blue Line),67662,TRUE,rail,TRUE
+9,66,14537,Ashland & Blackhawk,68960,FALSE,,TRUE
+9,67,17180,Ashland & North Ave,70292,TRUE,bus 72,TRUE
+9,68,6259,Ashland & Cortland,72106,TRUE,bus 73,TRUE
+9,69,6260,Ashland & Armitage,72815,FALSE,,FALSE
+9,70,6262,Ashland & Webster,74135,FALSE,,TRUE
+9,71,17392,Ashland & Fullerton,75633,TRUE,bus 74,TRUE
+9,72,6266,Ashland & Wrightwood,76805,FALSE,,TRUE
+9,73,15243,Ashland & Diversey,78320,TRUE,bus 76,TRUE
+9,74,6270,Ashland & Wellington,79459,FALSE,,TRUE
+9,75,18636,Ashland & Belmont/Lincoln,80986,TRUE,bus 77,TRUE
+9,76,6274,Ashland & Roscoe,82125,FALSE,,TRUE
+9,77,14894,Ashland & Addison,83634,TRUE,bus 152,TRUE
+9,78,6278,Ashland & Grace,84795,FALSE,,TRUE
+9,79,18725,Ashland & Irving Park,86288,TRUE,bus 80,TRUE
+9,80,18726,Ashland & Berteau,87590,FALSE,,TRUE
+9,81,17488,Ashland & Montrose,88948,TRUE,bus 78,TRUE
+9,82,4948,Wilson & Ashland,90274,TRUE,bus 78,TRUE
+9,83,18727,Wilson & Hermitage,91004,FALSE,,TRUE
+9,84,18712,Ravenswood (west Leg) & Leland,92329,TRUE,terminal,TRUE
